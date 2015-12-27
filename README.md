@@ -1,6 +1,6 @@
 # pagemon-chrome-ext
 
-**NOTE:** The project is s fork of extension at http://code.google.com/p/pagemon-chrome-ext/
+**NOTE:** The project is a fork of extension at http://code.google.com/p/pagemon-chrome-ext/
 
 Other known forks:
 - https://github.com/nmunson/pagemon-chrome-ext
