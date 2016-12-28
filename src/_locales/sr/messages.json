@@ -20,7 +20,7 @@
     "description": "The title of the diff page."
   },
   "diff_error": {
-    "message": "Грешка у препознавању промена. Молимо, пријавите ово..",
+    "message": "Грешка у препознавању промена. Молимо, пријавите то.",
     "description": "A diff failure error message on the diff page."
   },
   "diff_show_deletions": {
@@ -172,7 +172,7 @@
     "description": "The message that appears when a regex or selector test fails to retrieve the page to test."
   },
   "advanced": {
-    "message": "напредна подешавања",
+    "message": "напредно",
     "description": "The text of the button to toggle advanced settings."
   },
   "rename_page": {
